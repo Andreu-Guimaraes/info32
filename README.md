@@ -1,0 +1,2 @@
+# info32
+exercícios
